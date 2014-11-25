@@ -18,3 +18,12 @@ Settlements were extracted from the Census 2011 Settlements Boundaries. These we
 [View Map](https://github.com/rustyb/property/blob/master/study_area_settlements.geojson)
 
 <script src="https://embed.github.com/view/geojson/rustyb/property/master/study_area_settlements.geojson"></script>
+
+#### Property Price Data
+Property Price data has been obtained from the Revenue Commission. This contains properties sold from 2010 to November 2014. This has been mapped.
+
+[View Property Price Map](https://github.com/rustyb/property/blob/master/price_reg_24_11_14.geojson)
+
+#### Construction Data
+The commencement notice register has been extracted in order to show the area where construction is being completed or ongoing in 2014. This data was obtained from localgov.ie. There are issues as the data is only available as a pdf rather than csv. It is difficult to access and analyze trends.
+

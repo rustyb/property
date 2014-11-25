@@ -15,4 +15,6 @@ Full Details at: [Regional Population Projections
 #### Settlements
 Settlements were extracted from the Census 2011 Settlements Boundaries. These were filtered by those containing over *1000 persons* and those which are located within the counties under study.
 
+[View Map](https://github.com/rustyb/property/blob/master/study_area_settlements.geojson)
+
 <script src="https://embed.github.com/view/geojson/rustyb/property/master/study_area_settlements.geojson"></script>

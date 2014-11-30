@@ -16,4 +16,4 @@ qsts = pd.read_csv('qgis_sts_gt_1000.csv')
 
 # merge the data between the two dataframes discarding non matches
 test = pd.merge(sts1000, qsts, on='GEOGID', how='right')
-test.to_csv('study_area_gt_1000.csv')
+test.to_csv('study_area_gt_1000.csv', encoding="utf-8-sig")
